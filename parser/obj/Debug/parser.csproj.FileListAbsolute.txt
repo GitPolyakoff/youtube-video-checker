@@ -1,0 +1,72 @@
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\parser.exe.config
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\parser.exe
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\parser.pdb
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Google.Apis.Core.dll
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Google.Apis.dll
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\System.CodeDom.dll
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Google.Apis.pdb
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Google.Apis.xml
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Google.Apis.Core.xml
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Илья Поляков\Desktop\parser\parser\bin\Debug\System.CodeDom.xml
+C:\Users\Илья Поляков\Desktop\parser\parser\obj\Debug\parser.csproj.AssemblyReference.cache
+C:\Users\Илья Поляков\Desktop\parser\parser\obj\Debug\parser.csproj.CoreCompileInputs.cache
+C:\Users\Илья Поляков\Desktop\parser\parser\obj\Debug\parser.csproj.CopyComplete
+C:\Users\Илья Поляков\Desktop\parser\parser\obj\Debug\parser.exe
+C:\Users\Илья Поляков\Desktop\parser\parser\obj\Debug\parser.pdb
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\parser.exe.config
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\parser.exe
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\parser.pdb
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Google.Apis.Core.dll
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Google.Apis.dll
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\System.CodeDom.dll
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Google.Apis.pdb
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Google.Apis.xml
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Google.Apis.Core.xml
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\bin\Debug\System.CodeDom.xml
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\obj\Debug\parser.csproj.AssemblyReference.cache
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\obj\Debug\parser.csproj.CoreCompileInputs.cache
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\obj\Debug\parser.csproj.CopyComplete
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\obj\Debug\parser.exe
+C:\Users\Илья Поляков\Desktop\Internet Explorer\parser\parser\obj\Debug\parser.pdb
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\obj\Debug\parser.csproj.AssemblyReference.cache
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\obj\Debug\parser.csproj.CoreCompileInputs.cache
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\obj\Debug\parser.exe
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\obj\Debug\parser.pdb
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\parser.exe.config
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\parser.exe
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\parser.pdb
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Google.Apis.Core.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Google.Apis.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\System.CodeDom.dll
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Google.Apis.pdb
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Google.Apis.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Google.Apis.Core.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\bin\Debug\System.CodeDom.xml
+C:\Users\Илья Поляков\Desktop\flash\Проекты Visual Studio\parser\parser\obj\Debug\parser.csproj.Up2Date
