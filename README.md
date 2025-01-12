@@ -52,7 +52,7 @@ git clone https://github.com/GitPolyakoff/youtube-video-checker.git
 Перейдите на нужный для отстлеживания YouTube-канал, скопируйте имя пользователя (оно начинается с @) из URL.  
 ![Имя канала](https://github.com/user-attachments/assets/b66d53f6-9587-4b67-87b8-3a6fc520ef45)
 
-5. Запуск программы  
+4. Запуск программы  
 Запустите файл `parser.exe`.
 
 **!!! Чтобы изменить период проверки наличия новых видео**, откройте файл `Program.cs` и найдите строку:
